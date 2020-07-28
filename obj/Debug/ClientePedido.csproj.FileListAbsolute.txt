@@ -1,0 +1,7 @@
+C:\Users\55489\source\repos\ClientePedido\bin\Debug\ClientePedido.exe.config
+C:\Users\55489\source\repos\ClientePedido\bin\Debug\ClientePedido.exe
+C:\Users\55489\source\repos\ClientePedido\bin\Debug\ClientePedido.pdb
+C:\Users\55489\source\repos\ClientePedido\obj\Debug\ClientePedido.csprojAssemblyReference.cache
+C:\Users\55489\source\repos\ClientePedido\obj\Debug\ClientePedido.csproj.CoreCompileInputs.cache
+C:\Users\55489\source\repos\ClientePedido\obj\Debug\ClientePedido.exe
+C:\Users\55489\source\repos\ClientePedido\obj\Debug\ClientePedido.pdb
